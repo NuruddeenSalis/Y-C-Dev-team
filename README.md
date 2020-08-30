@@ -1,2 +1,1 @@
-# Nuruddeen-Salis
-For the people
+GitHub,Jira,Confluence 
