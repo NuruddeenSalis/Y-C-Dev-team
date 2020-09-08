@@ -1,2 +1,3 @@
 ## **Nuruddeen** 
-Nuruddeenthelight.wordpress.com
+
+https://www.facebook.com/nurudeen.salis
