@@ -1,4 +1,10 @@
 ---
 label: Nuruddeen Salis
 hide_body: false
-fields: []
+fields:
+- name: '00750'
+  type: include
+  config: {}
+  template: nuruddeen-salis
+  label: '00750'
+  description: "<strong>DESCRIPTION </strong><br>\U0001F389\U0001F389\U0001F389\U0001F389\U0001F389\U0001F54A<strong><br></strong>"
