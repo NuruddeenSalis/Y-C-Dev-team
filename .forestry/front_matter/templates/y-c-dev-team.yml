@@ -1,0 +1,34 @@
+---
+label: Y-C Dev team
+hide_body: true
+fields:
+- type: text
+  name: github
+  label: github
+- type: text
+  name: patreon
+  label: patreon
+- type: text
+  name: open_collective
+  label: open_collective
+- type: text
+  name: ko_fi
+  label: ko_fi
+- type: text
+  name: tidelift
+  label: tidelift
+- type: text
+  name: community_bridge
+  label: community_bridge
+- type: text
+  name: liberapay
+  label: liberapay
+- type: text
+  name: issuehunt
+  label: issuehunt
+- type: text
+  name: otechie
+  label: otechie
+- type: text
+  name: custom
+  label: custom
