@@ -1,3 +1,1 @@
-## **Nuruddeen** 
-
-https://www.facebook.com/nurudeen.salis
+Click👉:sparkles:🕊:sparkles: [](Https://www.facebook.com/nuruddeen.salis)
