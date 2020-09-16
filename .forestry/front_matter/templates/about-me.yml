@@ -1,4 +1,9 @@
 ---
 label: About me
 hide_body: false
-fields: []
+fields:
+- name: Nuruddeen
+  type: boolean
+  label: '00750'
+  description: '<strong>DESCRIPTION <br><em>contact:+234 </em></strong>8030530693<br><strong>Facebook:
+    </strong><a href="https://www.facebook.com/nurudeen.salis" title="MY FACE " target="_blank">https://www.facebook.com/nurudeen.salis</a><strong><br>  </strong>'
